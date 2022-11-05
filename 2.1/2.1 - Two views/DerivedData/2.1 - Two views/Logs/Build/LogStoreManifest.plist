@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>0716C776-B948-4DDD-8AEE-BC5F0CBC1696</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>0716C776-B948-4DDD-8AEE-BC5F0CBC1696.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>2.1 - Two views project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>2.1 - Two views</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build 2.1 - Two views</string>
+			<key>timeStartedRecording</key>
+			<real>689378260.57689404</real>
+			<key>timeStoppedRecording</key>
+			<real>689378261.212219</real>
+			<key>title</key>
+			<string>Build 2.1 - Two views</string>
+			<key>uniqueIdentifier</key>
+			<string>0716C776-B948-4DDD-8AEE-BC5F0CBC1696</string>
+		</dict>
+		<key>087A7CEE-35EA-45DC-90E0-91BF3404E6E0</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>087A7CEE-35EA-45DC-90E0-91BF3404E6E0.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>2.1 - Two views project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>2.1 - Two views</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build 2.1 - Two views</string>
+			<key>timeStartedRecording</key>
+			<real>689379256.89649999</real>
+			<key>timeStoppedRecording</key>
+			<real>689379257.90845704</real>
+			<key>title</key>
+			<string>Build 2.1 - Two views</string>
+			<key>uniqueIdentifier</key>
+			<string>087A7CEE-35EA-45DC-90E0-91BF3404E6E0</string>
+		</dict>
+		<key>162B25D7-32EF-4900-ABB4-BEFF57359E95</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>162B25D7-32EF-4900-ABB4-BEFF57359E95.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>2.1 - Two views project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>2.1 - Two views</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build 2.1 - Two views</string>
+			<key>timeStartedRecording</key>
+			<real>689378204.44477105</real>
+			<key>timeStoppedRecording</key>
+			<real>689378213.22355604</real>
+			<key>title</key>
+			<string>Build 2.1 - Two views</string>
+			<key>uniqueIdentifier</key>
+			<string>162B25D7-32EF-4900-ABB4-BEFF57359E95</string>
+		</dict>
+		<key>1BFB4635-7507-4EA0-87D9-C6BBFB169648</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>1BFB4635-7507-4EA0-87D9-C6BBFB169648.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>2.1 - Two views project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>2.1 - Two views</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build 2.1 - Two views</string>
+			<key>timeStartedRecording</key>
+			<real>689378753.21811497</real>
+			<key>timeStoppedRecording</key>
+			<real>689378754.09099805</real>
+			<key>title</key>
+			<string>Build 2.1 - Two views</string>
+			<key>uniqueIdentifier</key>
+			<string>1BFB4635-7507-4EA0-87D9-C6BBFB169648</string>
+		</dict>
+		<key>8E317540-5785-4776-A89D-2415BFEA459C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>8E317540-5785-4776-A89D-2415BFEA459C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>2.1 - Two views project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>2.1 - Two views</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build 2.1 - Two views</string>
+			<key>timeStartedRecording</key>
+			<real>689378996.22756398</real>
+			<key>timeStoppedRecording</key>
+			<real>689378999.34667099</real>
+			<key>title</key>
+			<string>Build 2.1 - Two views</string>
+			<key>uniqueIdentifier</key>
+			<string>8E317540-5785-4776-A89D-2415BFEA459C</string>
+		</dict>
+		<key>93688A6D-5119-4A06-8E43-1DD3BA78712E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>93688A6D-5119-4A06-8E43-1DD3BA78712E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>2.1 - Two views project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>2.1 - Two views</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build 2.1 - Two views</string>
+			<key>timeStartedRecording</key>
+			<real>689379351.32316303</real>
+			<key>timeStoppedRecording</key>
+			<real>689379351.81545401</real>
+			<key>title</key>
+			<string>Build 2.1 - Two views</string>
+			<key>uniqueIdentifier</key>
+			<string>93688A6D-5119-4A06-8E43-1DD3BA78712E</string>
+		</dict>
+		<key>B9E77492-CFC9-4598-8360-531252DC14C0</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>B9E77492-CFC9-4598-8360-531252DC14C0.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>2.1 - Two views project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>2.1 - Two views</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build 2.1 - Two views</string>
+			<key>timeStartedRecording</key>
+			<real>689378686.82177997</real>
+			<key>timeStoppedRecording</key>
+			<real>689378690.02470899</real>
+			<key>title</key>
+			<string>Build 2.1 - Two views</string>
+			<key>uniqueIdentifier</key>
+			<string>B9E77492-CFC9-4598-8360-531252DC14C0</string>
+		</dict>
+		<key>D9020F4C-0E43-4EC6-A348-231B884D5BDA</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D9020F4C-0E43-4EC6-A348-231B884D5BDA.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>2.1 - Two views project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>2.1 - Two views</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build 2.1 - Two views</string>
+			<key>timeStartedRecording</key>
+			<real>689379437.90362096</real>
+			<key>timeStoppedRecording</key>
+			<real>689379438.40937197</real>
+			<key>title</key>
+			<string>Build 2.1 - Two views</string>
+			<key>uniqueIdentifier</key>
+			<string>D9020F4C-0E43-4EC6-A348-231B884D5BDA</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

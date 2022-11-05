@@ -1,0 +1,60 @@
+{
+  "_buildCommand2" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "1b214416c2792d41946c6cd031845f2521e57536f33dcddd35e956d887e6340e"
+    }
+  ],
+  "containerPath" : "/Users/y.yurtina/Documents/MyProjects/2/2.1/2.1 - Two views/2.1 - Two views.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator15.5",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/y.yurtina/Documents/MyProjects/2/2.1/2.1 - Two views/DerivedData/2.1 - Two views/Index/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/y.yurtina/Documents/MyProjects/2/2.1/2.1 - Two views/DerivedData/2.1 - Two views/Index/Build/Products",
+      "derivedDataPath" : "/Users/y.yurtina/Documents/MyProjects/2/2.1/2.1 - Two views/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/y.yurtina/Documents/MyProjects/2/2.1/2.1 - Two views/DerivedData/2.1 - Two views/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/y.yurtina/Documents/MyProjects/2/2.1/2.1 - Two views/DerivedData/2.1 - Two views/Index/PrecompiledHeaders",
+      "pchPath" : "/Users/y.yurtina/Documents/MyProjects/2/2.1/2.1 - Two views/DerivedData/2.1 - Two views/Index/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "INDEX_ARENA_INFO_REGULAR_BUILD_PRODUCTS_DIR" : "/Users/y.yurtina/Documents/MyProjects/2/2.1/2.1 - Two views/DerivedData/2.1 - Two views/Build/Products",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "utility",
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

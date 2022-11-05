@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>3F189D35-A99F-46C0-8CF7-429150B0CBB8</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>3F189D35-A99F-46C0-8CF7-429150B0CBB8.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>2.1 - Two views project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>2.1 - Two views</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run 2.1 - Two views</string>
+			<key>timeStartedRecording</key>
+			<real>689379257.91701496</real>
+			<key>timeStoppedRecording</key>
+			<real>689379282.54381299</real>
+			<key>title</key>
+			<string>Run 2.1 - Two views</string>
+			<key>uniqueIdentifier</key>
+			<string>3F189D35-A99F-46C0-8CF7-429150B0CBB8</string>
+		</dict>
+		<key>7BE80490-2D93-4F88-AAB5-E167CABFD97C</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>7BE80490-2D93-4F88-AAB5-E167CABFD97C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>2.1 - Two views project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>2.1 - Two views</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run 2.1 - Two views</string>
+			<key>timeStartedRecording</key>
+			<real>689378690.03019404</real>
+			<key>timeStoppedRecording</key>
+			<real>689378752.66158402</real>
+			<key>title</key>
+			<string>Run 2.1 - Two views</string>
+			<key>uniqueIdentifier</key>
+			<string>7BE80490-2D93-4F88-AAB5-E167CABFD97C</string>
+		</dict>
+		<key>7C624DC0-C144-4BE4-A99A-E0AD612681DA</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>7C624DC0-C144-4BE4-A99A-E0AD612681DA.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>2.1 - Two views project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>2.1 - Two views</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run 2.1 - Two views</string>
+			<key>timeStartedRecording</key>
+			<real>689378213.23090804</real>
+			<key>timeStoppedRecording</key>
+			<real>689378241.60029304</real>
+			<key>title</key>
+			<string>Run 2.1 - Two views</string>
+			<key>uniqueIdentifier</key>
+			<string>7C624DC0-C144-4BE4-A99A-E0AD612681DA</string>
+		</dict>
+		<key>AC6FEA04-E0D4-461F-86B8-72ABB0B37A15</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>AC6FEA04-E0D4-461F-86B8-72ABB0B37A15.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>2.1 - Two views project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>2.1 - Two views</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run 2.1 - Two views</string>
+			<key>timeStartedRecording</key>
+			<real>689378754.09381902</real>
+			<key>timeStoppedRecording</key>
+			<real>689378868.249946</real>
+			<key>title</key>
+			<string>Run 2.1 - Two views</string>
+			<key>uniqueIdentifier</key>
+			<string>AC6FEA04-E0D4-461F-86B8-72ABB0B37A15</string>
+		</dict>
+		<key>B3E5300B-4A25-4C27-AC12-A6B92A057C31</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>B3E5300B-4A25-4C27-AC12-A6B92A057C31.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>2.1 - Two views project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>2.1 - Two views</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run 2.1 - Two views</string>
+			<key>timeStartedRecording</key>
+			<real>689378999.34923005</real>
+			<key>timeStoppedRecording</key>
+			<real>689379059.46666503</real>
+			<key>title</key>
+			<string>Run 2.1 - Two views</string>
+			<key>uniqueIdentifier</key>
+			<string>B3E5300B-4A25-4C27-AC12-A6B92A057C31</string>
+		</dict>
+		<key>C5A958EF-35E5-4BF2-B7F2-41A6EE037A18</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>C5A958EF-35E5-4BF2-B7F2-41A6EE037A18.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>2.1 - Two views project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>2.1 - Two views</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run 2.1 - Two views</string>
+			<key>timeStartedRecording</key>
+			<real>689379351.81765103</real>
+			<key>timeStoppedRecording</key>
+			<real>689379437.86879802</real>
+			<key>title</key>
+			<string>Run 2.1 - Two views</string>
+			<key>uniqueIdentifier</key>
+			<string>C5A958EF-35E5-4BF2-B7F2-41A6EE037A18</string>
+		</dict>
+		<key>D03912AE-92E8-4B5F-BBE6-54BCE5349D34</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>D03912AE-92E8-4B5F-BBE6-54BCE5349D34.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>2.1 - Two views project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>2.1 - Two views</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run 2.1 - Two views</string>
+			<key>timeStartedRecording</key>
+			<real>689378261.21904802</real>
+			<key>timeStoppedRecording</key>
+			<real>689378686.86394799</real>
+			<key>title</key>
+			<string>Run 2.1 - Two views</string>
+			<key>uniqueIdentifier</key>
+			<string>D03912AE-92E8-4B5F-BBE6-54BCE5349D34</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
